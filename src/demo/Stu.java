@@ -1,2 +1,4 @@
-package demo;public class Stu {
+package demo;
+
+public class Stu {
 }
