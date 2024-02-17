@@ -1,2 +1,4 @@
-package Practice;public class C {
+package Practice;
+
+public class C {
 }
