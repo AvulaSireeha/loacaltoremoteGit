@@ -1,4 +1,4 @@
 package demo;
 
-public class Stu g{
+public class Stu {
 }
